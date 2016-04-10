@@ -45,4 +45,4 @@ for row in county.find_all('option'):
         if data:
             if data[0] in ['Hillary Clinton', 'Bernie Sanders','Ted Cruz','John R. Kasich', 'Donald J. Trump']:
                 output.append(data[3])
-            writer.writerow(output.append(data)[3])
+            print output
