@@ -35,14 +35,17 @@ for row in county.find_all('option'):
     main_table = soup.find('table',
         {'class': 'electtable'} 
     )
-
+    #create an output list and put the values we care about into the list
+    #a blank list first to hold our result
     output = []
     output.append(county.text)
-
+    #get the data from each table row
+    #for every row in the table do sth
+    #find grabs everything between tr or td tags
     for row in main_table.find_all('tr'):
         data = [cell.text for cell in row.find_all('td')]
-
-        if data:
+        # if the lsit is not empty then execute the code(ignore the empty list)
+        if data != []:
             if data[0] in ['Hillary Clinton', 'Bernie Sanders','Ted Cruz','John R. Kasich', 'Donald J. Trump']:
                 output.append(data[3])
 writer.writerow(output)
