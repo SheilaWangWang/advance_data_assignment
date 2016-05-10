@@ -1,0 +1,65 @@
+Agency,Location,PrimaryBias,OffenseType,YEAR
+BROOKFIELD,"Brookfield, MO, USA",Anti-Black or African American,Destruction/ Damage/Vandalism,2015
+COLUMBIA,"Columbia, MO, USA",Anti-Islamic (Muslim),Simple Assault,2015
+COLUMBIA,"Columbia, MO, USA",Anti-Black or African American,Intimidation,2015
+FREDERICKTOWN,"Fredericktown, MO, USA", Anti-Gay (Male) ,Simple Assault,2015
+GLADSTONE,"Gladstone, MO, USA", Anti-Mormom,Larceny - Theft,2015
+INDEPENDENCE,"Independence, MO, USA",Anti-Black or African American,Destruction/ Damage/Vandalism,2015
+INDEPENDENCE,"Independence, MO, USA",Anti-Black or African American,Destruction/ Damage/Vandalism,2015
+KANSAS CITY,"Kansas City, MO, USA",Anti-Black or African American,Simple Assault,2015
+KANSAS CITY,"Kansas City, MO, USA",Anti-Black or African American,Simple Assault,2015
+KANSAS CITY,"Kansas City, MO, USA",Anti-White,Intimidation,2015
+KANSAS CITY,"Kansas City, MO, USA",Anti-Black or African American,Simple Assault,2015
+KANSAS CITY,"Kansas City, MO, USA", Anti-Transgender,Aggravated Assault,2015
+KANSAS CITY,"Kansas City, MO, USA",Anti-Black or African American,Aggravated Assault,2015
+KANSAS CITY,"Kansas City, MO, USA",Anti-Islamic (Muslim),Destruction/ Damage/Vandalism,2015
+KANSAS CITY,"Kansas City, MO, USA",Anti-White,Intimidation,2015
+KANSAS CITY,"Kansas City, MO, USA", Anti-Other Christian,Intimidation,2015
+KANSAS CITY,"Kansas City, MO, USA", Anti-Physical Disability,Destruction/ Damage/Vandalism,2015
+KANSAS CITY,"Kansas City, MO, USA", Anti-Other Race/Ethnicity/Ancestry,Intimidation,2015
+KANSAS CITY,"Kansas City, MO, USA",Anti-Black or African American,Intimidation,2015
+KANSAS CITY,"Kansas City, MO, USA"," Anti-Lesbian, Gay, Bisexual, or Transgender (mixed group)",Simple Assault,2015
+KANSAS CITY,"Kansas City, MO, USA",Anti-White,Aggravated Assault,2015
+KANSAS CITY,"Kansas City, MO, USA",Anti-White,Simple Assault,2015
+KANSAS CITY,"Kansas City, MO, USA",Anti-White,Simple Assault,2015
+KANSAS CITY,"Kansas City, MO, USA",Anti-Black or African American,Destruction/ Damage/Vandalism,2015
+KANSAS CITY,"Kansas City, MO, USA", Anti-Lesbian,Intimidation,2015
+KANSAS CITY,"Kansas City, MO, USA",Anti-White,Robbery,2015
+KANSAS CITY,"Kansas City, MO, USA",Anti-White,Motor Vehicle Theft,2015
+KANSAS CITY,"Kansas City, MO, USA",Anti-White,Simple Assault,2015
+KANSAS CITY,"Kansas City, MO, USA", Anti-Other Race/Ethnicity/Ancestry,Larceny - Theft,2015
+KANSAS CITY,"Kansas City, MO, USA", Anti-Other Race/Ethnicity/Ancestry,Intimidation,2015
+KIRKSVILLE,"Kirksville, MO, USA", Anti-Gay (Male) ,Aggravated Assault,2015
+LACLEDE CO - RURAL,"Laclede County, MO, USA",Anti-Black or African American,Intimidation,2015
+LEE'S SUMMIT,"Lee's Summit, MO, USA",Anti-Black or African American,Destruction/ Damage/Vandalism,2015
+MARYVILLE,"Maryville, MO, USA",Anti-Black or African American,Simple Assault,2015
+MERAMEC COLLEGE PD,"St.Louis, MO, USA",Anti-Black or African American,Simple Assault,2015
+NODAWAY CO - RURAL,"Nodaway County, MO, USA",Anti-Black or African American,Simple Assault,2015
+NORTHWEST MO ST UNIV,"Maryville, MO, USA",Anti-Black or African American,Intimidation,2015
+OVERLAND,"Overland, MO, USA",Anti-White,Simple Assault,2015
+PAGEDALE,"Pagedale, MO, USA",Anti-White,Intimidation,2015
+ROLLA,"Rolla, MO, USA",Anti-Black or African American,Simple Assault,2015
+ROLLA,"Rolla,MO, USA",Anti-Black or African American,Aggravated Assault,2015
+SCHUYLER CO - RURAL,"Schuyler County, MO, USA"," Anti-Lesbian, Gay, Bisexual, or Transgender (mixed group)",Intimidation,2015
+SPRINGFIELD,"Springfield, MO, USA",Anti-Black or African American,Burglary,2015
+SPRINGFIELD,"Springfield, MO, USA",Anti-Black or African American,Simple Assault,2015
+SPRINGFIELD,"Springfield, MO, USA", Anti-Jewish,Simple Assault,2015
+ST JOSEPH,"St. Joseph, MO, USA",Anti-Black or African American,Intimidation,2015
+ST. LOUIS CITY,"St. Louis, MO, USA",Anti-Black or African American,Simple Assault,2015
+ST. LOUIS CITY,"St. Louis, MO, USA",Anti-White,Simple Assault,2015
+ST. LOUIS CITY,"St. Louis, MO, USA",Anti-White,Simple Assault,2015
+ST. LOUIS CITY,"St. Louis, MO, USA",Anti-Black or African American,Intimidation,2015
+ST. LOUIS CITY,"St. Louis, MO, USA",Anti-Black or African American,Intimidation,2015
+ST. LOUIS COUNTY,"St. Louis County, MO, USA",Anti-Black or African American,Destruction/ Damage/Vandalism,2015
+ST. LOUIS COUNTY,"St. Louis County, MO, USA",Anti-Black or African American,Simple Assault,2015
+ST. LOUIS COUNTY,"St. Louis County, MO, USA",Anti-Black or African American,Intimidation,2015
+TANEY CO - RURAL,"Taney County, MO, USA",Anti-Black or African American,Arson,2015
+UNIV OF MO - COLUMBIA,"Columbia, MO, USA", Anti-Gender Non-Conforming,Intimidation,2015
+UNIV OF MO - COLUMBIA,"Columbia, MO, USA",Anti-Islamic (Muslim),Intimidation,2015
+UNIV OF MO - COLUMBIA,"Columbia, MO, USA", Anti-Jewish,Intimidation,2015
+UNIV OF MO - COLUMBIA,"Columbia, MO, USA", Anti-Jewish,Destruction/ Damage/Vandalism,2015
+UNIVERSITY CITY,"University City, MO, USA", Anti-Jewish,Intimidation,2015
+UNIVERSITY CITY,"University City, MO, USA", Anti-Jewish,Intimidation,2015
+UNIVERSITY CITY,"University City, MO, USA",Anti-Islamic (Muslim),Intimidation,2015
+WARRENTON,"Warrenton, MO, USA",Anti-Black or African American,Destruction/ Damage/Vandalism,2015
+WORTH CO - RURAL,"Worth County, MO, USA",Anti-Black or African American,Intimidation,2015

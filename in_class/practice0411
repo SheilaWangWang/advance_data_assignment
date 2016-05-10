@@ -1,0 +1,22 @@
+import mechanize
+
+
+from bs4 import BeautifulSoup
+
+br = mechanize.Browser()
+br.open('http://enr.sos.mo.gov/EnrNet/CountyResults.aspx')
+
+# Fill out the form
+br.select_form(nr=0)
+br.form['ctl00$MainContent$cboElectionNames'] = ['750003566']
+
+
+# 
+br.form['ctl00$MainContent$cboCounty'] = ['019']
+
+br.submit('ctl00$MainContent$btnCountyChange')
+html = br.response().read()
+
+soup = BeautifulSoup(html,'html.parser')
+
+main_table = soup.find('table',{'id':})
